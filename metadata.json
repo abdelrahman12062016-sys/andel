@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Smash Brawlers",
+  "description": "An action-packed real-time brawler fan game inspired by Super Smash Bros, featuring customizable fighters, physics-based combat, knockback meters, and epic stage environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
